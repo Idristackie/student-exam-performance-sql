@@ -1,4 +1,7 @@
 # 📘 Student Performance Analysis Using SQL
+[![Tech](https://img.shields.io/badge/Tech-SQL-blue)]()
+[![Database](https://img.shields.io/badge/DB-PostgreSQL-lightgrey)]()
+[![Focus](https://img.shields.io/badge/Focus-Data%20Analysis-success)]()
 
 ## 🎯 Project Overview  
 This project explores how various behavioral and environmental factors influence student exam performance. Using SQL, I analyzed a dataset containing student study habits, attendance, sleep patterns, tutoring sessions, and extracurricular activity participation. The goal was to identify which factors have the strongest impact on exam success and develop data-driven insights that can support better educational decision-making.
